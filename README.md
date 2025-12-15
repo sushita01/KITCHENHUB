@@ -3,7 +3,7 @@
 This project is called KitchenHub. It is a simple web application for managing recipes. I made this project for my friend with some guidance and help.
 
 **Features**
-Chef?admin cabn add, view, and manage recipes.
+Chef or admin can add, view, and manage recipes.
 Users can save and read recipes.
 Simple and user-friendly interface.
 
