@@ -28,7 +28,7 @@ This project is called KitchenHub. It is a simple web application for managing r
 - **Database:** MongoDB (Mongoose)
 
 
-## How It Works:
+## How It Works
 1. Admins or Chefs can add new recipes with ingredients and instructions.
 2. Admins or Chefs can edit or delete recipes with ingredients and instructions.
 3. Users can view all recipes and save them.
